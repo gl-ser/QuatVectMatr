@@ -64,4 +64,4 @@ q0 – скалярная часть, q1, q2, q3 – векторная част
 
 ---
 
-См. [аналог](https://github.com/gl-ser/QuatVectMatr_Pas) для Object Pascal
+См. [аналог](https://github.com/gl-ser/QuatVectMatr_Pas) на Object Pascal для Delphi
